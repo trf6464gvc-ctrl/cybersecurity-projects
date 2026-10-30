@@ -28,3 +28,7 @@ Real SOC simulation with 3 detection rules:
 - Threat Detection
 
 📫 Goal: SOC Analyst | Port Said, Egypt
+#### 3. 🛡️ IDS System - Intrusion Detection
+Detects port scanning attacks when same IP scans 10+ ports
+`Python | IDS | Port Scan Detection`
+📁 File: `ids_system.py`
