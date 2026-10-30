@@ -1,6 +1,6 @@
 Analyst | Cybersecurity Enthusiast
 Learning to protect systems from attacks
-📍 Port Giza, Egypt
+📍 Giza, Egypt
 
 ---
 
